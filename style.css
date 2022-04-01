@@ -99,6 +99,8 @@ nav a:hover {
     transition-duration: 1s;
 }
 
+
+
 /*Navigation bar*/
 
 /*header*/          /*title- Cinzel Decorative, button- Ceasar Drassing*/
@@ -123,7 +125,7 @@ nav a:hover {
 .title button {
     border: 3px solid black;
     cursor: pointer;
-    font-size: 20px;
+    font-size: 1.25rem;
     padding: 15px;
     width: 200px;
     border-radius: 30px;
